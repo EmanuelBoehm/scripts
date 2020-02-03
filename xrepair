@@ -1,0 +1,3 @@
+#!/bin/bash
+echo systemctl restart systemd-logind
+sudo systemctl restart systemd-logind

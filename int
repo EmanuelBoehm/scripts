@@ -1,0 +1,4 @@
+#!/bin/bash
+wmname LG3D
+sleep 1
+idea

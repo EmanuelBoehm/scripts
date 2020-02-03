@@ -2,5 +2,5 @@
 if [ "$1" ]; then 
 	feh --bg-fill $1 ;
 else 
-	feh --bg-fill $HOME/pic/walpic.jpg
+	feh --bg-fill $HOME/pic/walpic2.jpg
 fi

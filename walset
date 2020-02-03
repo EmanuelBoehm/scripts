@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/g/Walset/out/production/Walset
+java de.Main $1 > ~/.Xresources
+background $1
+xrdb -merge ~/.Xresources
